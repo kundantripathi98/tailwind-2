@@ -753,10 +753,7 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.text-red-300 {
-  --tw-text-opacity: 1;
-  color: rgb(252 165 165 / var(--tw-text-opacity));
-}
+
 
 .group:hover .group-hover\:after\:w-full::after {
   content: var(--tw-content);
